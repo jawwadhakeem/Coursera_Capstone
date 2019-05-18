@@ -1,4 +1,4 @@
-# Introduction / Business Problem
+# The battle of neighborhoods - Introduction
 
 Individuals and families migrate to different cities across the globe for multifarious reasons. Some migrate to join families, and some migrate to find better livelihood. Not much research goes into picking a place other than what is evident / on-the-table. Not to mention, family-members' and friends' experiences are relied upon the most. 
 
